@@ -1,8 +1,4 @@
-Sure, here's a comprehensive README file for a JavaScript project that covers all essential topics:
-
----
-
-# JavaScript Comprehensive Guide
+# JavaScript Compelete Guide for Beginners
 
 Welcome to the JavaScript Comprehensive Guide! This guide covers all essential topics in JavaScript to help you become proficient in the language. Whether you are a beginner or an experienced developer, this guide will provide you with the knowledge and skills you need to master JavaScript.
 
